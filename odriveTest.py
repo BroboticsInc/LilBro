@@ -12,6 +12,7 @@ import time
 import math
 
 # Find a connected ODrive (this will block until you connect one)
+#initial commit test
 print("finding an odrive...")
 my_drive = odrive.find_any()
 
